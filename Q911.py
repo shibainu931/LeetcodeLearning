@@ -42,4 +42,4 @@ class TopVotedCandidate(object):
             else:
                 j = mid
         return i 
-        
+   

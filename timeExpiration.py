@@ -37,12 +37,3 @@ class node(object):
 
 def getCurrentTime():
     pass
-
-
-import numpy as np
-import matplotlib as mat
-
-x = np.arrange(0, 3*np.pi, 0.1)
-y = np.sin(x)
-arr = ['pyplot']
-mat.arr[0].plot(x, y)
